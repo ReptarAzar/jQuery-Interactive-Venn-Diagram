@@ -8,7 +8,7 @@ $(function() {
 	    width: "100%",
 	    opacity: 1,	
 	    marginLeft: "20px",
-	  }, 100 );
+	  }, 400 );
 
    },
    function(){
@@ -18,7 +18,7 @@ $(function() {
 	    width: "100%",
 	    opacity: 0,
 	    marginLeft: "20px",
-	  }, 300 );
+	  }, 700 );
    });
 });
 
@@ -31,7 +31,7 @@ $(function() {
 	    width: "100%",
 	    opacity: 1,	
 	    marginLeft: "20px",
-	  }, 100 );
+	  }, 400 );
    },
    function(){
       $(this).removeClass('hover'); 
@@ -40,7 +40,7 @@ $(function() {
 	    width: "100%",
 	    opacity: 0,
 	    marginLeft: "20px",
-	  }, 300 );
+	  }, 700 );
    });
 });
 
@@ -53,7 +53,7 @@ $(function() {
 	    width: "100%",
 	    opacity: 1,	
 	    marginLeft: "20px",
-	  }, 300 );
+	  }, 400 );
    },
    function(){
       $(this).removeClass('hover'); 
@@ -62,7 +62,7 @@ $(function() {
 	    width: "100%",
 	    opacity: 0,
 	    marginLeft: "20px",
-	  }, 300 );
+	  }, 700 );
    });
 });
 
